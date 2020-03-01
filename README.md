@@ -97,7 +97,7 @@ Project Link: [https://github.com/Dieman89/RootFunction](https://github.com/Diem
 [stars-url]: https://github.com/Dieman89/RootFunction/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Dieman89/RootFunction.svg?style=flat-square
 [issues-url]: https://github.com/Dieman89/RootFunction/issues
-
+[license-shield]: https://img.shields.io/github/license/Dieman89/RootFunction.svg?style=flat-square
 [license-url]: https://github.com/Dieman89/RootFunction/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/buonerba
