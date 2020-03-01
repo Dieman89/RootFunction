@@ -89,16 +89,16 @@ Project Link: [https://github.com/Dieman89/RootFunction](https://github.com/Diem
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/Dieman89/RootFunction.svg?style=flat-square
 [contributors-url]: https://github.com/Dieman89/RootFunction/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/Dieman89/RootFunction.svg?style=flat-square
 [forks-url]: https://github.com/Dieman89/RootFunction/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/Dieman89/RootFunction.svg?style=flat-square
 [stars-url]: https://github.com/Dieman89/RootFunction/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/Dieman89/RootFunction.svg?style=flat-square
 [issues-url]: https://github.com/Dieman89/RootFunction/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
-[license-url]: https://github.com/Dieman89/RootFunction/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/Dieman89/RootFunction.svg?style=flat-square
+[license-url]: https://github.com/Dieman89/RootFunction/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/buonerba
 [screenshot]: images/screenshot.png
