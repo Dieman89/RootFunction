@@ -39,8 +39,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+<p align="center">
 [![RootFunction][screenshot]](https://github.com/Dieman89)
+</p>
 
 A Java application to find the roots of a Function f(x) using Numerical Methods and Data Structures.
 
