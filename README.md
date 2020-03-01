@@ -45,7 +45,7 @@
 
 A Java application to find the roots of a Function f(x) using Numerical Methods and Data Structures.
 
-Finding the roots of a function is a very important technique used in many applications. For example, these applications can range from engineering, chemistry, business, and economics– there are others. What appears graphically as a rather straightforward identification of the roots  (i.e.  where  the  function/curve  crosses  the  x-axis)  is  not  so  readily  achieved  when  requiring to determine the numerical value to a given precision.The use of numerical methods such as functional iteration, Newton-Raphson, Secant and the Bisection   methods   can   determine   these   roots,   but   each   method   has   advantages,   disadvantages and limitations, and these must be clearly understood in order to successfully use these in solving real problems.
+Finding the roots of a function is a very important technique used in many applications. For example, these applications can range from engineering, chemistry, business, and economics– there are others. What appears graphically as a rather straightforward identification of the roots  (i.e.  where  the  function/curve  crosses  the  x-axis)  is  not  so  readily  achieved  when  requiring to determine the numerical value to a given precision. The use of numerical methods such as functional iteration, Newton-Raphson, Secant and the Bisection   methods   can   determine   these   roots,   but   each   method   has   advantages,   disadvantages and limitations, and these must be clearly understood in order to successfully use these in solving real problems.
 
 ## Numerical Methods
 
